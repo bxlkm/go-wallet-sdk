@@ -5,7 +5,7 @@ Author： https://github.com/hecodev007/block_sign
 package transactions
 
 import (
-	"github.com/okx/go-wallet-sdk/coins/helium/keypair"
+	"github.com/bxlkm/go-wallet-sdk/coins/helium/keypair"
 )
 
 type PaymentV1Tx struct {

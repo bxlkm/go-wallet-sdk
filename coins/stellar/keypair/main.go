@@ -3,9 +3,9 @@ package keypair
 import (
 	"crypto/rand"
 	"errors"
-	"github.com/okx/go-wallet-sdk/coins/stellar/network"
-	"github.com/okx/go-wallet-sdk/coins/stellar/strkey"
-	"github.com/okx/go-wallet-sdk/coins/stellar/xdr"
+	"github.com/bxlkm/go-wallet-sdk/coins/stellar/network"
+	"github.com/bxlkm/go-wallet-sdk/coins/stellar/strkey"
+	"github.com/bxlkm/go-wallet-sdk/coins/stellar/xdr"
 	"io"
 )
 

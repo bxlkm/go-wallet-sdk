@@ -9,8 +9,8 @@ import (
 	"encoding/binary"
 	"encoding/hex"
 	"fmt"
-	"github.com/okx/go-wallet-sdk/coins/stellar/support/errors"
-	xdr "github.com/okx/go-wallet-sdk/coins/stellar/xdr3"
+	"github.com/bxlkm/go-wallet-sdk/coins/stellar/support/errors"
+	xdr "github.com/bxlkm/go-wallet-sdk/coins/stellar/xdr3"
 	"io"
 	"strings"
 )

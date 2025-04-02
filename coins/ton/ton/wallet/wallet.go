@@ -16,9 +16,9 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/okx/go-wallet-sdk/coins/ton/address"
-	"github.com/okx/go-wallet-sdk/coins/ton/tlb"
-	"github.com/okx/go-wallet-sdk/coins/ton/tvm/cell"
+	"github.com/bxlkm/go-wallet-sdk/coins/ton/address"
+	"github.com/bxlkm/go-wallet-sdk/coins/ton/tlb"
+	"github.com/bxlkm/go-wallet-sdk/coins/ton/tvm/cell"
 )
 
 type Version int

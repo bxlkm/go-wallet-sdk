@@ -10,8 +10,8 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"github.com/okx/go-wallet-sdk/coins/waves/crypto"
-	"github.com/okx/go-wallet-sdk/crypto/base58"
+	"github.com/bxlkm/go-wallet-sdk/coins/waves/crypto"
+	"github.com/bxlkm/go-wallet-sdk/crypto/base58"
 )
 
 const (

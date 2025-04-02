@@ -1,4 +1,4 @@
-module github.com/okx/go-wallet-sdk/coins/starknet
+module github.com/bxlkm/go-wallet-sdk/coins/starknet
 
 go 1.19
 

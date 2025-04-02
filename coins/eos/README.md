@@ -14,7 +14,7 @@ The SDK not only support EOS, it also supports other blockchain forking from EOS
 To obtain the latest version, simply require the project using :
 
 ```shell
-go get -u github.com/okx/go-wallet-sdk/coins/eos
+go get -u github.com/bxlkm/go-wallet-sdk/coins/eos
 ```
 
 ## Usage
@@ -104,4 +104,4 @@ go get -u github.com/okx/go-wallet-sdk/coins/eos
 If you are the original author and would like credit adjusted, please contact us.
 
 ## License
-Most packages or folder are [MIT](<https://github.com/okx/go-wallet-sdk/blob/main/coins/eos/LICENSE>) licensed, see package or folder for the respective license.
+Most packages or folder are [MIT](<https://github.com/bxlkm/go-wallet-sdk/blob/main/coins/eos/LICENSE>) licensed, see package or folder for the respective license.

@@ -6,14 +6,14 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	associatedtokenaccount "github.com/okx/go-wallet-sdk/coins/solana/associated-token-account"
-	computebudget "github.com/okx/go-wallet-sdk/coins/solana/compute-budget"
+	associatedtokenaccount "github.com/bxlkm/go-wallet-sdk/coins/solana/associated-token-account"
+	computebudget "github.com/bxlkm/go-wallet-sdk/coins/solana/compute-budget"
 	"github.com/tyler-smith/go-bip39"
 
-	"github.com/okx/go-wallet-sdk/coins/solana/base"
-	"github.com/okx/go-wallet-sdk/coins/solana/system"
-	"github.com/okx/go-wallet-sdk/coins/solana/token"
-	"github.com/okx/go-wallet-sdk/crypto/base58"
+	"github.com/bxlkm/go-wallet-sdk/coins/solana/base"
+	"github.com/bxlkm/go-wallet-sdk/coins/solana/system"
+	"github.com/bxlkm/go-wallet-sdk/coins/solana/token"
+	"github.com/bxlkm/go-wallet-sdk/crypto/base58"
 )
 
 var (

@@ -1,7 +1,7 @@
 package txnbuild
 
 import (
-	"github.com/okx/go-wallet-sdk/coins/stellar/xdr"
+	"github.com/bxlkm/go-wallet-sdk/coins/stellar/xdr"
 )
 
 // ChangeTrustAsset represents a Stellar change trust asset.

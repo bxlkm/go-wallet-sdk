@@ -8,9 +8,9 @@ import (
 	"crypto/ed25519"
 	"encoding/hex"
 	"errors"
-	cre "github.com/okx/go-wallet-sdk/coins/helium/crypto"
-	"github.com/okx/go-wallet-sdk/coins/helium/utils"
-	"github.com/okx/go-wallet-sdk/crypto/base58"
+	cre "github.com/bxlkm/go-wallet-sdk/coins/helium/crypto"
+	"github.com/bxlkm/go-wallet-sdk/coins/helium/utils"
+	"github.com/bxlkm/go-wallet-sdk/crypto/base58"
 )
 
 const (

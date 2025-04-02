@@ -3,7 +3,7 @@
 package nft_candy_machine_v2
 
 import (
-	"github.com/okx/go-wallet-sdk/coins/solana/base"
+	"github.com/bxlkm/go-wallet-sdk/coins/solana/base"
 )
 
 type WhitelistMintSettings struct {

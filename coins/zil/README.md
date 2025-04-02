@@ -8,7 +8,7 @@ Zil SDK is used to interact with the Zil blockchain, it contains various functio
 To obtain the latest version, simply require the project using :
 
 ```shell
-go get -u github.com/okx/go-wallet-sdk/coins/zil
+go get -u github.com/bxlkm/go-wallet-sdk/coins/zil
 ```
 
 ## Usage
@@ -39,4 +39,4 @@ payload := tx.ToTransactionPayload()
 ```
 
 ## License
-Most packages or folder are [MIT](<https://github.com/okx/go-wallet-sdk/blob/main/coins/aptos/LICENSE>) licensed, see package or folder for the respective license.
+Most packages or folder are [MIT](<https://github.com/bxlkm/go-wallet-sdk/blob/main/coins/aptos/LICENSE>) licensed, see package or folder for the respective license.

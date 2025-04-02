@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/ethereum/go-ethereum/common"
-	vrfProof "github.com/okx/go-wallet-sdk/coins/oracle/vrf/proof"
-	"github.com/okx/go-wallet-sdk/crypto/vrf/secp256k1"
+	vrfProof "github.com/bxlkm/go-wallet-sdk/coins/oracle/vrf/proof"
+	"github.com/bxlkm/go-wallet-sdk/crypto/vrf/secp256k1"
 	"github.com/shopspring/decimal"
 	"math/big"
 )

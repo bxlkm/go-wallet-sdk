@@ -5,7 +5,7 @@ import (
 	"encoding"
 	"errors"
 	"fmt"
-	xdr "github.com/okx/go-wallet-sdk/coins/stellar/xdr3"
+	xdr "github.com/bxlkm/go-wallet-sdk/coins/stellar/xdr3"
 	"io"
 )
 

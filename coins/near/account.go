@@ -4,7 +4,7 @@ import (
 	"crypto/ed25519"
 	"crypto/rand"
 	"encoding/hex"
-	"github.com/okx/go-wallet-sdk/crypto/base58"
+	"github.com/bxlkm/go-wallet-sdk/crypto/base58"
 )
 
 func NewAccount() (address, seedHex string, err error) {

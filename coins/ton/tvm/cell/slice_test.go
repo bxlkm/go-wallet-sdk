@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/okx/go-wallet-sdk/coins/ton/address"
+	"github.com/bxlkm/go-wallet-sdk/coins/ton/address"
 )
 
 func TestLoadCell_LoadAddr(t *testing.T) {

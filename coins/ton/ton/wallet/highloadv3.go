@@ -8,8 +8,8 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"github.com/okx/go-wallet-sdk/coins/ton/tlb"
-	"github.com/okx/go-wallet-sdk/coins/ton/tvm/cell"
+	"github.com/bxlkm/go-wallet-sdk/coins/ton/tlb"
+	"github.com/bxlkm/go-wallet-sdk/coins/ton/tvm/cell"
 	"math/big"
 )
 

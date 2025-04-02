@@ -6,7 +6,7 @@
 package cbor
 
 import (
-	"github.com/okx/go-wallet-sdk/crypto/cbor"
+	"github.com/bxlkm/go-wallet-sdk/crypto/cbor"
 	"io"
 )
 

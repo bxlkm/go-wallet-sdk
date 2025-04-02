@@ -1,10 +1,10 @@
-module github.com/okx/go-wallet-sdk/coins/sui
+module github.com/bxlkm/go-wallet-sdk/coins/sui
 
 go 1.19
 
 require (
 	github.com/dchest/blake2b v1.0.0
-	github.com/okx/go-wallet-sdk/crypto v0.0.1
+	github.com/bxlkm/go-wallet-sdk/crypto v0.0.1
 	github.com/stretchr/testify v1.8.4
 )
 

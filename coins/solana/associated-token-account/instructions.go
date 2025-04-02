@@ -15,7 +15,7 @@
 package associatedtokenaccount
 
 import (
-	"github.com/okx/go-wallet-sdk/coins/solana/base"
+	"github.com/bxlkm/go-wallet-sdk/coins/solana/base"
 )
 
 type Instruction struct {

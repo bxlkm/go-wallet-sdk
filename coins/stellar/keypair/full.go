@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"crypto/ed25519"
 	"encoding/base64"
-	"github.com/okx/go-wallet-sdk/coins/stellar/strkey"
-	"github.com/okx/go-wallet-sdk/coins/stellar/xdr"
+	"github.com/bxlkm/go-wallet-sdk/coins/stellar/strkey"
+	"github.com/bxlkm/go-wallet-sdk/coins/stellar/xdr"
 )
 
 type Full struct {

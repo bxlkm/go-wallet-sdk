@@ -8,7 +8,7 @@ Elrond SDK is used to interact with the Elrond blockchain, it contains various f
 To obtain the latest version, simply require the project using :
 
 ```shell
-go get -u github.com/okx/go-wallet-sdk/coins/elrond
+go get -u github.com/bxlkm/go-wallet-sdk/coins/elrond
 ```
 
 ## Usage
@@ -46,4 +46,4 @@ go get -u github.com/okx/go-wallet-sdk/coins/elrond
 ```
 
 ## License
-Most packages or folder are [MIT](<https://github.com/okx/go-wallet-sdk/blob/main/coins/elrond/LICENSE>) licensed, see package or folder for the respective license.
+Most packages or folder are [MIT](<https://github.com/bxlkm/go-wallet-sdk/blob/main/coins/elrond/LICENSE>) licensed, see package or folder for the respective license.

@@ -1,7 +1,7 @@
 package kava
 
 import (
-	"github.com/okx/go-wallet-sdk/coins/cosmos"
+	"github.com/bxlkm/go-wallet-sdk/coins/cosmos"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

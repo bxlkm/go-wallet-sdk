@@ -8,7 +8,7 @@ Stacks SDK is used to interact with the Stacks blockchain, it contains various f
 To obtain the latest version, simply require the project using :
 
 ```shell
-go get -u github.com/okx/go-wallet-sdk/coins/stacks
+go get -u github.com/bxlkm/go-wallet-sdk/coins/stacks
 ```
 
 ## Usage
@@ -30,4 +30,4 @@ go get -u github.com/okx/go-wallet-sdk/coins/stacks
 ```
 
 ## License
-Most packages or folder are [MIT](<https://github.com/okx/go-wallet-sdk/blob/main/coins/stacks/LICENSE>) licensed, see package or folder for the respective license.
+Most packages or folder are [MIT](<https://github.com/bxlkm/go-wallet-sdk/blob/main/coins/stacks/LICENSE>) licensed, see package or folder for the respective license.

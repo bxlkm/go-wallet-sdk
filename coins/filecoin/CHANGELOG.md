@@ -3,14 +3,14 @@
 
 All notable changes to this project will be documented in this file.
 
-# [0.0.4](https://github.com/okx/go-wallet-sdk) (2025-02-14)
+# [0.0.4](https://github.com/bxlkm/go-wallet-sdk) (2025-02-14)
 
 ### New features
 
-- **filecoin-sdk:** add tx hash calculation ([80](https://github.com/okx/go-wallet-sdk/pull/80))
+- **filecoin-sdk:** add tx hash calculation ([80](https://github.com/bxlkm/go-wallet-sdk/pull/80))
 
-# [0.0.2](https://github.com/okx/go-wallet-sdk) (2023-11-20)
+# [0.0.2](https://github.com/bxlkm/go-wallet-sdk) (2023-11-20)
 
 ### updates
 
-- **filecoin-sdk:** change some files name and remove some unused libs ([21](https://github.com/okx/go-wallet-sdk/pull/21))
+- **filecoin-sdk:** change some files name and remove some unused libs ([21](https://github.com/bxlkm/go-wallet-sdk/pull/21))

@@ -1,7 +1,7 @@
 # OKX Web3 Go Wallet SDK
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/okx/go-wallet-sdk.svg)](https://pkg.go.dev/github.com/okx/go-wallet-sdk)
-[![License](https://img.shields.io/github/license/okx/go-wallet-sdk)](https://github.com/okx/go-wallet-sdk/blob/main/LICENSE)
+[![Go Reference](https://pkg.go.dev/badge/github.com/bxlkm/go-wallet-sdk.svg)](https://pkg.go.dev/github.com/bxlkm/go-wallet-sdk)
+[![License](https://img.shields.io/github/license/okx/go-wallet-sdk)](https://github.com/bxlkm/go-wallet-sdk/blob/main/LICENSE)
 
 The OKX Web3 Go Wallet SDK is a comprehensive solution for building wallet applications with offline transaction capabilities across multiple blockchain networks. It provides a unified interface for account management, transaction creation, and signing across various mainstream public chains.
 
@@ -20,8 +20,8 @@ For detailed documentation and API references, please refer to the README files 
 
 Example:
 
-- [Aptos README](https://github.com/okx/go-wallet-sdk/tree/main/coins/aptos)
-- [Bitcoin README](https://github.com/okx/go-wallet-sdk/tree/main/coins/bitcoin)
+- [Aptos README](https://github.com/bxlkm/go-wallet-sdk/tree/main/coins/aptos)
+- [Bitcoin README](https://github.com/bxlkm/go-wallet-sdk/tree/main/coins/bitcoin)
 
 ## 🌐 Supported Chains
 
@@ -63,7 +63,7 @@ To install the OKX Web3 Go Wallet SDK, ensure you have Go 1.22+ installed, such 
 
 ```shell
 # Install SDK
-go get -u github.com/okx/go-wallet-sdk/coins/bitcoin
+go get -u github.com/bxlkm/go-wallet-sdk/coins/bitcoin
 ```
 
 ## ⚙️ Build and Test
@@ -80,7 +80,7 @@ The output will display the build status for each chain. If a module fails, the 
 
 ## 💬 Feedback and Support
 
-The OKX Web3 Go Wallet SDK shares common design principles and usage patterns with the JS SDK. While each blockchain's specific usage can be found in the corresponding `coins` directory README, users can refer to the [JS SDK demo](https://okx.github.io/wallet-sdk-demo/) and [documentation](https://okx.github.io/js-wallet-sdk/) for additional guidance. If you encounter any issues or have suggestions, please submit them through [GitHub Issues](https://github.com/okx/go-wallet-sdk/issues), and we will address them promptly.
+The OKX Web3 Go Wallet SDK shares common design principles and usage patterns with the JS SDK. While each blockchain's specific usage can be found in the corresponding `coins` directory README, users can refer to the [JS SDK demo](https://okx.github.io/wallet-sdk-demo/) and [documentation](https://okx.github.io/js-wallet-sdk/) for additional guidance. If you encounter any issues or have suggestions, please submit them through [GitHub Issues](https://github.com/bxlkm/go-wallet-sdk/issues), and we will address them promptly.
 
 ## 🔒 Security
 

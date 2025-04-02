@@ -5,7 +5,7 @@ Author： https://github.com/hecodev007/block_sign
 package keypair
 
 import (
-	"github.com/okx/go-wallet-sdk/crypto/base58"
+	"github.com/bxlkm/go-wallet-sdk/crypto/base58"
 )
 
 type Addressable struct {

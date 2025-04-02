@@ -8,7 +8,7 @@ Solana SDK is used to interact with the Solana blockchain, it contains various f
 To obtain the latest version, simply require the project using :
 
 ```shell
-go get -u github.com/okx/go-wallet-sdk/coins/solana
+go get -u github.com/bxlkm/go-wallet-sdk/coins/solana
 ```
 
 ## Usage
@@ -90,4 +90,4 @@ go get -u github.com/okx/go-wallet-sdk/coins/solana
 If you are the original author and would like credit adjusted, please contact us.
 
 ## License
-Most packages or folder are [MIT](<https://github.com/okx/go-wallet-sdk/blob/main/coins/solana/LICENSE>) licensed, see package or folder for the respective license.
+Most packages or folder are [MIT](<https://github.com/bxlkm/go-wallet-sdk/blob/main/coins/solana/LICENSE>) licensed, see package or folder for the respective license.

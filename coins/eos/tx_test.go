@@ -2,7 +2,7 @@ package eos
 
 import (
 	"encoding/hex"
-	"github.com/okx/go-wallet-sdk/coins/eos/types"
+	"github.com/bxlkm/go-wallet-sdk/coins/eos/types"
 	"reflect"
 	"testing"
 )

@@ -17,7 +17,7 @@ package token
 import (
 	"errors"
 
-	"github.com/okx/go-wallet-sdk/coins/solana/base"
+	"github.com/bxlkm/go-wallet-sdk/coins/solana/base"
 )
 
 // Given a wrapped / native token account (a token account containing SOL)

@@ -4,11 +4,11 @@ import (
 	"bytes"
 	"crypto/ed25519"
 	"errors"
-	"github.com/okx/go-wallet-sdk/util"
+	"github.com/bxlkm/go-wallet-sdk/util"
 	"strings"
 
-	"github.com/okx/go-wallet-sdk/coins/ton/address"
-	"github.com/okx/go-wallet-sdk/coins/ton/ton/wallet"
+	"github.com/bxlkm/go-wallet-sdk/coins/ton/address"
+	"github.com/bxlkm/go-wallet-sdk/coins/ton/ton/wallet"
 )
 
 var (

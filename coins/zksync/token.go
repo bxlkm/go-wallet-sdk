@@ -1,6 +1,6 @@
 package zksync
 
-import "github.com/okx/go-wallet-sdk/coins/zksync/core"
+import "github.com/bxlkm/go-wallet-sdk/coins/zksync/core"
 
 var ETH = core.CreateETH()
 

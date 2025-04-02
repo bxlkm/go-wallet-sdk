@@ -1,6 +1,6 @@
 package cronos
 
-import "github.com/okx/go-wallet-sdk/coins/cosmos"
+import "github.com/bxlkm/go-wallet-sdk/coins/cosmos"
 
 const (
 	HRP = "cro"

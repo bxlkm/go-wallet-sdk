@@ -16,7 +16,7 @@ package computebudget
 
 import (
 	"errors"
-	"github.com/okx/go-wallet-sdk/coins/solana/base"
+	"github.com/bxlkm/go-wallet-sdk/coins/solana/base"
 )
 
 type SetComputeUnitPrice struct {

@@ -4,8 +4,8 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"fmt"
-	"github.com/okx/go-wallet-sdk/coins/zkspace"
-	"github.com/okx/go-wallet-sdk/coins/zksync/core"
+	"github.com/bxlkm/go-wallet-sdk/coins/zkspace"
+	"github.com/bxlkm/go-wallet-sdk/coins/zksync/core"
 	"math/big"
 	"strings"
 )

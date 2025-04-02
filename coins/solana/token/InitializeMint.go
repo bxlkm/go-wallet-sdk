@@ -17,7 +17,7 @@ package token
 import (
 	"errors"
 
-	"github.com/okx/go-wallet-sdk/coins/solana/base"
+	"github.com/bxlkm/go-wallet-sdk/coins/solana/base"
 )
 
 // Initializes a new mint and optionally deposits all the newly minted

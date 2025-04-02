@@ -4,7 +4,7 @@ import (
 	"crypto/ed25519"
 	"encoding/hex"
 	"fmt"
-	"github.com/okx/go-wallet-sdk/coins/ton/ton/wallet"
+	"github.com/bxlkm/go-wallet-sdk/coins/ton/ton/wallet"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

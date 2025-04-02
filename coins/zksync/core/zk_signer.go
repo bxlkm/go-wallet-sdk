@@ -9,7 +9,7 @@ import (
 	"encoding/hex"
 	"errors"
 	"fmt"
-	"github.com/okx/go-wallet-sdk/coins/zksync/zkscrypto"
+	"github.com/bxlkm/go-wallet-sdk/coins/zksync/zkscrypto"
 	"math/big"
 	"strings"
 )

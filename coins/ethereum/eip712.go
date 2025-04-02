@@ -7,7 +7,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/okx/go-wallet-sdk/util"
+	"github.com/bxlkm/go-wallet-sdk/util"
 	"golang.org/x/crypto/sha3"
 	"math/big"
 	"reflect"

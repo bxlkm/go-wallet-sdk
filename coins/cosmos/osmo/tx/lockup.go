@@ -6,7 +6,7 @@ import (
 	"io"
 	time "time"
 
-	"github.com/okx/go-wallet-sdk/coins/cosmos/types"
+	"github.com/bxlkm/go-wallet-sdk/coins/cosmos/types"
 )
 
 type MsgLockTokens struct {

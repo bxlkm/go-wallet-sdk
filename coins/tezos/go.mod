@@ -1,10 +1,10 @@
-module github.com/okx/go-wallet-sdk/coins/tezos
+module github.com/bxlkm/go-wallet-sdk/coins/tezos
 
 go 1.19
 
 require (
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.0.1
-	github.com/okx/go-wallet-sdk/crypto v0.0.1
+	github.com/bxlkm/go-wallet-sdk/crypto v0.0.1
 	github.com/stretchr/testify v1.8.4
 	golang.org/x/crypto v0.15.0
 )

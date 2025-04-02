@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/eoscanada/eos-go/ecc"
-	"github.com/okx/go-wallet-sdk/coins/eos/types"
+	"github.com/bxlkm/go-wallet-sdk/coins/eos/types"
 )
 
 type Signer struct {

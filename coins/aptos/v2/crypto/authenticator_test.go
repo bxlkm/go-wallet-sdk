@@ -2,8 +2,8 @@ package crypto
 
 import (
 	"crypto/ed25519"
-	"github.com/okx/go-wallet-sdk/coins/aptos/v2/bcs"
-	"github.com/okx/go-wallet-sdk/coins/aptos/v2/internal/util"
+	"github.com/bxlkm/go-wallet-sdk/coins/aptos/v2/bcs"
+	"github.com/bxlkm/go-wallet-sdk/coins/aptos/v2/internal/util"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

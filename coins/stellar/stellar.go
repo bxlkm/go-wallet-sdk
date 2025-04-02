@@ -2,10 +2,10 @@ package stellar
 
 import (
 	"errors"
-	"github.com/okx/go-wallet-sdk/coins/stellar/keypair"
-	"github.com/okx/go-wallet-sdk/coins/stellar/strkey"
-	"github.com/okx/go-wallet-sdk/coins/stellar/txnbuild"
-	"github.com/okx/go-wallet-sdk/coins/stellar/xdr"
+	"github.com/bxlkm/go-wallet-sdk/coins/stellar/keypair"
+	"github.com/bxlkm/go-wallet-sdk/coins/stellar/strkey"
+	"github.com/bxlkm/go-wallet-sdk/coins/stellar/txnbuild"
+	"github.com/bxlkm/go-wallet-sdk/coins/stellar/xdr"
 	"strings"
 )
 

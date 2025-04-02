@@ -7,13 +7,13 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"errors"
-	"github.com/okx/go-wallet-sdk/coins/ton/tvm/cell"
+	"github.com/bxlkm/go-wallet-sdk/coins/ton/tvm/cell"
 	"math/big"
 
-	"github.com/okx/go-wallet-sdk/coins/ton/address"
-	"github.com/okx/go-wallet-sdk/coins/ton/tlb"
-	"github.com/okx/go-wallet-sdk/coins/ton/ton/jetton"
-	"github.com/okx/go-wallet-sdk/coins/ton/ton/wallet"
+	"github.com/bxlkm/go-wallet-sdk/coins/ton/address"
+	"github.com/bxlkm/go-wallet-sdk/coins/ton/tlb"
+	"github.com/bxlkm/go-wallet-sdk/coins/ton/ton/jetton"
+	"github.com/bxlkm/go-wallet-sdk/coins/ton/ton/wallet"
 )
 
 func buildTx(w *wallet.Wallet, withInit bool) (*SignedTx, error) {

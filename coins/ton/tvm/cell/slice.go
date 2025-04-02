@@ -10,7 +10,7 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/okx/go-wallet-sdk/coins/ton/address"
+	"github.com/bxlkm/go-wallet-sdk/coins/ton/address"
 )
 
 type Slice struct {

@@ -3,8 +3,8 @@ package nervos
 import (
 	"encoding/binary"
 	"errors"
-	"github.com/okx/go-wallet-sdk/coins/nervos/crypto"
-	"github.com/okx/go-wallet-sdk/coins/nervos/types"
+	"github.com/bxlkm/go-wallet-sdk/coins/nervos/crypto"
+	"github.com/bxlkm/go-wallet-sdk/coins/nervos/types"
 )
 
 func NewSecp256k1SingleSigTx(scripts *types.SystemScripts) *types.Transaction {

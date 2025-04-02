@@ -9,7 +9,7 @@ package utils
 import (
 	"fmt"
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/okx/go-wallet-sdk/util/abi"
+	"github.com/bxlkm/go-wallet-sdk/util/abi"
 	"golang.org/x/crypto/sha3"
 	"math/big"
 )

@@ -1,9 +1,9 @@
 package txnbuild
 
 import (
-	"github.com/okx/go-wallet-sdk/coins/stellar/amount"
-	"github.com/okx/go-wallet-sdk/coins/stellar/support/errors"
-	"github.com/okx/go-wallet-sdk/coins/stellar/xdr"
+	"github.com/bxlkm/go-wallet-sdk/coins/stellar/amount"
+	"github.com/bxlkm/go-wallet-sdk/coins/stellar/support/errors"
+	"github.com/bxlkm/go-wallet-sdk/coins/stellar/xdr"
 	"math"
 )
 

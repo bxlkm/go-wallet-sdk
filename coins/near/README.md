@@ -8,7 +8,7 @@ Kaspa SDK is used to interact with the Kaspa blockchain, it contains various fun
 To obtain the latest version, simply require the project using :
 
 ```shell
-go get -u github.com/okx/go-wallet-sdk/coins/near
+go get -u github.com/bxlkm/go-wallet-sdk/coins/near
 ```
 
 ## Usage
@@ -120,4 +120,4 @@ go get -u github.com/okx/go-wallet-sdk/coins/near
 If you are the original author and would like credit adjusted, please contact us.
 
 ## License
-Most packages or folder are [MIT](<https://github.com/okx/go-wallet-sdk/blob/main/coins/near/LICENSE>) licensed, see package or folder for the respective license.
+Most packages or folder are [MIT](<https://github.com/bxlkm/go-wallet-sdk/blob/main/coins/near/LICENSE>) licensed, see package or folder for the respective license.

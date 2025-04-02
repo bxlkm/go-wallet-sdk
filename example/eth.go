@@ -11,9 +11,9 @@ import (
 	"github.com/decred/dcrd/dcrec/secp256k1/v4"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/okx/go-wallet-sdk/coins/ethereum"
-	"github.com/okx/go-wallet-sdk/crypto/bip32"
-	"github.com/okx/go-wallet-sdk/util"
+	"github.com/bxlkm/go-wallet-sdk/coins/ethereum"
+	"github.com/bxlkm/go-wallet-sdk/crypto/bip32"
+	"github.com/bxlkm/go-wallet-sdk/util"
 	"github.com/tyler-smith/go-bip39"
 	"math/big"
 )

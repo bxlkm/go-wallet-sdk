@@ -1,8 +1,8 @@
 package v2
 
 import (
-	"github.com/okx/go-wallet-sdk/coins/aptos/v2/bcs"
-	"github.com/okx/go-wallet-sdk/coins/aptos/v2/crypto"
+	"github.com/bxlkm/go-wallet-sdk/coins/aptos/v2/bcs"
+	"github.com/bxlkm/go-wallet-sdk/coins/aptos/v2/crypto"
 	"golang.org/x/crypto/sha3"
 )
 

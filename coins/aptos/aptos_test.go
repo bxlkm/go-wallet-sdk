@@ -3,9 +3,9 @@ package aptos
 import (
 	cryptoed25519 "crypto/ed25519"
 	"encoding/hex"
-	"github.com/okx/go-wallet-sdk/coins/aptos/aptos_types"
-	"github.com/okx/go-wallet-sdk/coins/aptos/serde"
-	"github.com/okx/go-wallet-sdk/crypto/ed25519"
+	"github.com/bxlkm/go-wallet-sdk/coins/aptos/aptos_types"
+	"github.com/bxlkm/go-wallet-sdk/coins/aptos/serde"
+	"github.com/bxlkm/go-wallet-sdk/crypto/ed25519"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"math"

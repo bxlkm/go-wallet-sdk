@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/okx/go-wallet-sdk/crypto/vrf/utils"
+	"github.com/bxlkm/go-wallet-sdk/crypto/vrf/utils"
 	"go.dedis.ch/kyber/v3"
 )
 

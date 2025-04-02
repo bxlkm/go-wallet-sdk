@@ -1,11 +1,11 @@
-module github.com/okx/go-wallet-sdk/coins/flow
+module github.com/bxlkm/go-wallet-sdk/coins/flow
 
 go 1.19
 
 require (
 	github.com/btcsuite/btcd/btcec/v2 v2.3.2
 	github.com/ethereum/go-ethereum v1.12.2
-	github.com/okx/go-wallet-sdk/util v0.0.2
+	github.com/bxlkm/go-wallet-sdk/util v0.0.2
 	github.com/stretchr/testify v1.8.4
 	golang.org/x/crypto v0.14.0
 )
