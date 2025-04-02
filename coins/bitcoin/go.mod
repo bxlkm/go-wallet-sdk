@@ -1,4 +1,4 @@
-module github.com/okx/go-wallet-sdk/coins/bitcoin
+module github.com/bxlkm/go-wallet-sdk/coins/bitcoin
 
 go 1.19
 
